@@ -1,4 +1,9 @@
-#Hi! I'm Sarah D Herren, a full stack developer in NOLA
+# Hi! I'm Sarah D Herren, a full stack developer in NOLA
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sarahdherren)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarahdherren/)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:herren.sarah@icloud.com)
+
 
 <p>
   <a href="https://github.com/sarahdherren/handle-path-oz">
