@@ -1,8 +1,14 @@
-#                                                                       Sarah D Herren
+#Hi! I'm Sarah D Herren, a full stack developer in NOLA
 
-###                                                               I am a full stack developer
+###**Skills: React | JS | Node | Express | HTML | CSS**
 
-###                                                   **Skills: React | JS | Node | Express | HTML | CSS**
+<!-- Your github readme stats
+You can use this api: https://github.com/anuraghazra/github-readme-stats
+-->
+<p>
+  <a href="https://github.com/sarahdherren/handle-path-oz">
+    <img width="55%" align="right" alt="Sarah D's github stats" src="https://github-readme-stats.vercel.app/api?username=sarahdherren&show_icons=true&hide_border=true" />
+  </a>
 
   
 
