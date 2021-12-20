@@ -1,6 +1,6 @@
 #                                                                       Sarah D Herren
 
-##                                                                I am a full stack developer
+###                                                               I am a full stack developer
 
 ###                                                   **Skills: React | JS | Node | Express | HTML | CSS**
 
