@@ -8,8 +8,6 @@
 
 
 **a bit about me**
-</br>
-</br>
 <img width="45%" align="right" alt="Github" src="https://user-images.githubusercontent.com/67919714/146849984-fb391bdb-7a6d-4020-bdb2-7b1c4dd79630.png" />
 - I love photography and time spent in nature!
 
@@ -25,6 +23,8 @@
   <a href="https://github.com/sarahdherren/handle-path-oz">
     <img width="55%" align="right" alt="Sarah D's github stats" src="https://github-readme-stats.vercel.app/api?username=sarahdherren&show_icons=true&hide_border=true" />
   </a>
+  </br>
+  </br>
   </br>
   </br>
   </br>
