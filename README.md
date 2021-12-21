@@ -5,10 +5,11 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:herren.sarah@icloud.com)
 </br>
 </br>
-</br>
-</br>
+
 
 **a bit about me**
+</br>
+</br>
 <img width="45%" align="right" alt="Github" src="https://user-images.githubusercontent.com/67919714/146849984-fb391bdb-7a6d-4020-bdb2-7b1c4dd79630.png" />
 - I love photography and time spent in nature!
 - I'm currently building OOP skills with python
