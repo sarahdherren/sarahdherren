@@ -26,9 +26,6 @@
 <img width="55%" align="right" alt="Sarah D's github stats" src="https://github-readme-stats.vercel.app/api?username=sarahdherren&show_icons=true&hide_border=true" />
 </br>
 </br>
-</br>
-</br>
-</br>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
