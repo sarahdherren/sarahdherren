@@ -9,14 +9,17 @@
 </br>
 <p>
 **a bit about me**
-<img width="55%" align="right" alt="Github" src="https://user-images.githubusercontent.com/67919714/146849984-fb391bdb-7a6d-4020-bdb2-7b1c4dd79630.png" />
+<img width="45%" align="right" alt="Github" src="https://user-images.githubusercontent.com/67919714/146849984-fb391bdb-7a6d-4020-bdb2-7b1c4dd79630.png" />
 - I love photography and time spent in nature!
 - I'm currently building OOP skills with python
 - Fun-Fact: I worked in underwater construction as a commercial diver
 - I'm currently building a dive-decompression-table app based on the most current Navy dive tables - would love to collaborate with other mermaids/mermen 
 - I can be reached at herren.sarah@icloud.com
 </p>
-
+</br>
+</br>
+</br>
+</br>
 <p>
   <a href="https://github.com/sarahdherren/handle-path-oz">
     <img width="55%" align="right" alt="Sarah D's github stats" src="https://github-readme-stats.vercel.app/api?username=sarahdherren&show_icons=true&hide_border=true" />
