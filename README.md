@@ -3,14 +3,19 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sarahdherren)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarahdherren/)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:herren.sarah@icloud.com)
-
-**Me talking about myself**
+</br>
+</br>
+</br>
+</br>
+<p>
+**a bit about me**
 <img width="55%" align="right" alt="Github" src="https://user-images.githubusercontent.com/67919714/146849984-fb391bdb-7a6d-4020-bdb2-7b1c4dd79630.png" />
 - I love photography and time spent in nature!
 - I'm currently building OOP skills with python
-- Fun-Fact: I was a commercial diver!
+- Fun-Fact: I worked in underwater construction as a commercial diver
 - I'm currently building a dive-decompression-table app based on the most current Navy dive tables - would love to collaborate with other mermaids/mermen 
 - I can be reached at herren.sarah@icloud.com
+</p>
 
 <p>
   <a href="https://github.com/sarahdherren/handle-path-oz">
