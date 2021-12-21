@@ -21,13 +21,11 @@
 
 - I can be reached at herren.sarah@icloud.com
 
-
+  </br>
+  </br>
 <p>
     <img width="55%" align="right" alt="Sarah D's github stats" src="https://github-readme-stats.vercel.app/api?username=sarahdherren&show_icons=true&hide_border=true" />
   </a>
-  </br>
-  </br>
-  </br>
   </br>
   </br>
   </br>
