@@ -4,6 +4,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarahdherren/)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:herren.sarah@icloud.com)
 
+**Me talking about myself**
+<img width="55%" align="right" alt="Github" src="https://user-images.githubusercontent.com/67919714/146849984-fb391bdb-7a6d-4020-bdb2-7b1c4dd79630.png" />
+
 
 <p>
   <a href="https://github.com/sarahdherren/handle-path-oz">
