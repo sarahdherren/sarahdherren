@@ -44,7 +44,3 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></code>
-
-
-
-<img src="https://user-images.githubusercontent.com/67919714/144724384-47467b2c-1445-4e46-b6c0-ca14c2be5861.gif" width="100%" />
