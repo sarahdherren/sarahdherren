@@ -3,12 +3,12 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sarahdherren)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarahdherren/)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:herren.sarah@icloud.com)
-</br>
-</br>
 
-
-**a bit about me**
 <img width="45%" align="right" alt="Github" src="https://user-images.githubusercontent.com/67919714/146849984-fb391bdb-7a6d-4020-bdb2-7b1c4dd79630.png" />
+</br>
+</br>
+**a bit about me**
+
 - I love photography and time spent in nature!
 
 - I'm currently building OOP skills with python
@@ -23,6 +23,8 @@
   <a href="https://github.com/sarahdherren/handle-path-oz">
     <img width="55%" align="right" alt="Sarah D's github stats" src="https://github-readme-stats.vercel.app/api?username=sarahdherren&show_icons=true&hide_border=true" />
   </a>
+  </br>
+  </br>
   </br>
   </br>
   </br>
