@@ -12,19 +12,23 @@
 </br>
 <img width="45%" align="right" alt="Github" src="https://user-images.githubusercontent.com/67919714/146849984-fb391bdb-7a6d-4020-bdb2-7b1c4dd79630.png" />
 - I love photography and time spent in nature!
-</br>
+
 - I'm currently building OOP skills with python
-</br>
+
 - Fun-Fact: I worked in underwater construction as a commercial diver
-</br>
+
 - I'm currently building a dive-decompression-table app based on the most current Navy dive tables - would love to collaborate with other mermaids/mermen
-</br>
+
 - I can be reached at herren.sarah@icloud.com
 
 <p>
   <a href="https://github.com/sarahdherren/handle-path-oz">
     <img width="55%" align="right" alt="Sarah D's github stats" src="https://github-readme-stats.vercel.app/api?username=sarahdherren&show_icons=true&hide_border=true" />
   </a>
+  </br>
+  </br>
+  </br>
+  </br>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
